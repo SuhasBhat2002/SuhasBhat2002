@@ -8,9 +8,9 @@ I'm a **Data Scientist** passionate about leveraging the power of data and Artif
 
 I'm currently focused on the exciting frontiers of AI, specializing in:
 
-* **Large Language Models (LLMs)**
-* **Generative AI**
-* **Agentic Application Development**
+* **Time series analysis**
+* **Power BI**
+* **Product Analytics**
 
 ---
 
