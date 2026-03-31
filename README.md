@@ -1,39 +1,38 @@
 ## Hi there, I'm Suhas! 👋
 
-I'm a **Data Scientist** passionate about leveraging the power of data and Artificial Intelligence to **solve complex business problems**. My approach involves a blend of in-depth data analysis and the development of robust AI applications.
+I'm a **Data Engineer** with a strong interest in **Data Science**, passionate about building reliable data systems and extracting meaningful insights from data. I enjoy working at the intersection of data infrastructure and analytics to **enable data-driven decision-making**.
 
 ---
 
 ### What I'm Currently Building 🏗️
 
-I'm currently focused on the exciting frontiers of AI, specializing in:
+I'm currently focused on designing and working with data systems, including:
 
-* **Time series analysis**
-* **Power BI**
-* **Product Analytics**
-
+* **Data pipelines & ETL workflows**
+* **Data warehousing & modeling**
 ---
 
 ### My Toolkit 🛠️
 
-I apply a variety of technologies to bring solutions to life, including:
+I use a mix of engineering and analytical tools to build scalable data solutions:
 
-* **Languages:** Python, SQL
-* **Data Analysis & Manipulation:** Pandas, Matplotlib
-* **Machine Learning & AI:** PyTorch, Scikit-learn (sklearn), MLflow
-* **Business Intelligence:** Power BI
-* **Core Concepts:** Machine Learning Algorithms
+* **Languages:** Python, SQL  
+* **Data Engineering:** ETL pipelines, Data Modeling, Workflow Orchestration  
+* **Data Analysis:** Pandas, Matplotlib  
+* **Data Science (Exploring):** Scikit-learn (sklearn), basic ML concepts  
+* **Business Intelligence:** Power BI  
+* **Core Concepts:** Data Warehousing, Data Pipelines, Machine Learning fundamentals  
 
 ---
 
 ### My Work 🚀
 
-You can explore my projects and contributions right here on GitHub. Dive into my repositories to see how I tackle different challenges and implement AI solutions.
+You can explore my projects and contributions here on GitHub. I focus on building **data pipelines, analytics solutions, and data-driven applications** that solve real-world problems.
 
 ---
 
 ### Let's Connect!
 
-I'm always open to discussing new ideas, collaborations, or just connecting with fellow data enthusiasts.
+I'm always open to discussing **data engineering, analytics, or data science ideas**, as well as collaboration opportunities.
 
 ---
