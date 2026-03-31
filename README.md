@@ -16,7 +16,7 @@ I'm currently focused on designing and working with data systems, including:
 
 I use a mix of engineering and analytical tools to build scalable data solutions:
 
-* **Languages:** Python, SQL  
+* **Languages:** Python, SQL, Apache Spark
 * **Data Engineering:** ETL pipelines, Data Modeling, Workflow Orchestration  
 * **Data Analysis:** Pandas, Matplotlib  
 * **Data Science (Exploring):** Scikit-learn (sklearn), basic ML concepts  
